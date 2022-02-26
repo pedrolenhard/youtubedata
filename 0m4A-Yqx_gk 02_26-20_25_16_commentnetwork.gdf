@@ -1,0 +1,63 @@
+nodedef>name VARCHAR,label VARCHAR,commentCount INT
+José gracias doctora por defender al pueblo Cruz,José gracias doctora por defender al pueblo Cruz,1
+Odilia Osorto,Odilia Osorto,1
+Jesus Garcia,Jesus Garcia,2
+Freddy Cruz,Freddy Cruz,1
+Juan Zelaya,Juan Zelaya,2
+Marta baca Ordoñez,Marta baca Ordoñez,1
+Cesar Hernandez,Cesar Hernandez,1
+Gloria Ortez,Gloria Ortez,1
+Nohemi Padilla,Nohemi Padilla,1
+Magie Wayne,Magie Wayne,1
+T A,T A,2
+Delmy Perez,Delmy Perez,1
+Antonio Maldonado,Antonio Maldonado,1
+Mobile Talk,Mobile Talk,2
+Carlos García,Carlos García,1
+Daniela Palacios,Daniela Palacios,1
+Wilber Sauceda,Wilber Sauceda,1
+Darwin Alexis Medina Rosales,Darwin Alexis Medina Rosales,1
+Carlos Murcia,Carlos Murcia,2
+Jose Angel,Jose Angel,1
+MegaMusicka,MegaMusicka,1
+Leslly Eguigurems,Leslly Eguigurems,2
+Tomas Diaz,Tomas Diaz,1
+adilio Castellanos (JAC),adilio Castellanos (JAC),2
+Jose Turcios,Jose Turcios,1
+Ariel antonio Nuñez nuñez,Ariel antonio Nuñez nuñez,1
+Víctor Pacheco,Víctor Pacheco,2
+Isaias Orellana Anariva,Isaias Orellana Anariva,1
+Vicente Coronado,Vicente Coronado,3
+SARAHY GARCIA,SARAHY GARCIA,1
+Eulalio Marquez,Eulalio Marquez,1
+Capitan,Capitan,1
+Silvia Banegas Banegas,Silvia Banegas Banegas,2
+yolany sagastume,yolany sagastume,1
+Rudic Galeano,Rudic Galeano,1
+G. Flores (E611032),G. Flores (E611032),6
+Angel Barrientos,Angel Barrientos,1
+Miguel Solis,Miguel Solis,1
+Emilio Sierra,Emilio Sierra,11
+Toti Rodriguez,Toti Rodriguez,3
+Jose Suazo,Jose Suazo,1
+ricardo s,ricardo s,1
+Judith Romero,Judith Romero,4
+User Second,User Second,1
+Jorge Rivera,Jorge Rivera,1
+hember Espinoza,hember Espinoza,1
+Oscar Martinez,Oscar Martinez,1
+Soto H.,Soto H.,1
+036hugo,036hugo,1
+negrito ojos claros justicia para honduras,negrito ojos claros justicia para honduras,1
+Elias Bueso,Elias Bueso,2
+Orlando Bolanos,Orlando Bolanos,4
+Aguirre,Aguirre,3
+Citizen Action TV,Citizen Action TV,1
+edgedef>node1 VARCHAR,node2 VARCHAR,weight INT,directed BOOLEAN
+G. Flores (E611032),Emilio Sierra,1,true
+Jose Suazo,Emilio Sierra,1,true
+G. Flores (E611032),Judith Romero,1,true
+Soto H.,Oscar Martinez,1,true
+Aguirre,Orlando Bolanos,3,true
+Orlando Bolanos,Orlando Bolanos,3,true
+G. Flores (E611032),Orlando Bolanos,2,true

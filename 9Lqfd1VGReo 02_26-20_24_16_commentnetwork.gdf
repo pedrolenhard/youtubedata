@@ -1,0 +1,71 @@
+nodedef>name VARCHAR,label VARCHAR,commentCount INT
+Javier Membreño,Javier Membreño,1
+narciso romero,narciso romero,1
+Jose salvador Rodriguez martines,Jose salvador Rodriguez martines,1
+Victor Rubén Claros Cartagena Rubén Claros,Victor Rubén Claros Cartagena Rubén Claros,1
+el fan #1,el fan #1,1
+Omar Martimez,Omar Martimez,1
+Antonio Morales,Antonio Morales,2
+Fátima Rodríguez,Fátima Rodríguez,1
+martha mejia soriano,martha mejia soriano,1
+El Wito HND,El Wito HND,1
+Karla Rubio,Karla Rubio,1
+Mercedes Pereyra,Mercedes Pereyra,4
+Ana Quan,Ana Quan,2
+Martha Isabel,Martha Isabel,3
+Ilsy h,Ilsy h,2
+Elizabeth Gálvez Mendoza,Elizabeth Gálvez Mendoza,1
+Elmer Cardona,Elmer Cardona,2
+Alex Aguilar,Alex Aguilar,1
+Dennis Bardales,Dennis Bardales,1
+Oscar Sanchez,Oscar Sanchez,1
+Teo Enamorado Leiva,Teo Enamorado Leiva,1
+Emilio Sierra,Emilio Sierra,8
+Rafael saavedra,Rafael saavedra,1
+Jason Dueñas,Jason Dueñas,1
+Roger Maradiaga,Roger Maradiaga,5
+Juan Ulloa,Juan Ulloa,1
+Olga Lainez,Olga Lainez,1
+Rosalinda Irias,Rosalinda Irias,1
+Angeles Anduray,Angeles Anduray,1
+Fredy Humberto,Fredy Humberto,1
+Elizabeth Lopez,Elizabeth Lopez,2
+T A,T A,1
+Herctor Medina,Herctor Medina,1
+Alberto Rodriguez,Alberto Rodriguez,2
+Aurora Bustillo,Aurora Bustillo,2
+Angel Flores,Angel Flores,2
+Jorge Valladares,Jorge Valladares,1
+Omar Beltrand,Omar Beltrand,1
+Gloria Maldonado,Gloria Maldonado,2
+Exmar,Exmar,1
+Marisela Fuentes,Marisela Fuentes,1
+Cielo Rojo,Cielo Rojo,1
+Mirella Carcamo,Mirella Carcamo,2
+Jose Sandres,Jose Sandres,2
+Dany Ruiz,Dany Ruiz,1
+Johnny Andrade,Johnny Andrade,1
+Oscar Saavedra,Oscar Saavedra,1
+Samuel CONCEPCION,Samuel CONCEPCION,1
+adilio Castellanos (JAC),adilio Castellanos (JAC),1
+Hettor Padilla,Hettor Padilla,1
+Abel Alguera,Abel Alguera,2
+edgedef>node1 VARCHAR,node2 VARCHAR,weight INT,directed BOOLEAN
+Martha Isabel,Martha Isabel,1,true
+Ilsy h,Martha Isabel,1,true
+Aurora Bustillo,Aurora Bustillo,1,true
+Angel Flores,Aurora Bustillo,1,true
+Roger Maradiaga,Exmar,2,true
+Marisela Fuentes,Exmar,1,true
+Cielo Rojo,Exmar,1,true
+Mercedes Pereyra,Exmar,1,true
+Mirella Carcamo,Exmar,1,true
+Mercedes Pereyra,Dany Ruiz,2,true
+Ana Quan,Dany Ruiz,1,true
+Roger Maradiaga,Dany Ruiz,1,true
+Elizabeth Lopez,Dany Ruiz,1,true
+Angel Flores,Dany Ruiz,1,true
+Gloria Maldonado,Dany Ruiz,1,true
+Ilsy h,Abel Alguera,1,true
+Mirella Carcamo,Abel Alguera,1,true
+Roger Maradiaga,Abel Alguera,1,true

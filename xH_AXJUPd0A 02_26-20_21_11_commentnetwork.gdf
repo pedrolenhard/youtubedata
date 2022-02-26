@@ -1,0 +1,135 @@
+nodedef>name VARCHAR,label VARCHAR,commentCount INT
+Diablo Yt,Diablo Yt,1
+saint Maligno,saint Maligno,1
+Gabriel Valles,Gabriel Valles,1
+intraterrestre e,intraterrestre e,1
+Antonio goret,Antonio goret,1
+Jose Gomez,Jose Gomez,1
+El PERRO VERDE,El PERRO VERDE,4
+Ivam Gamez,Ivam Gamez,1
+martha mejia soriano,martha mejia soriano,1
+Silent Montana,Silent Montana,1
+Roberto Lopez Rodriguez,Roberto Lopez Rodriguez,1
+John Hamilton,John Hamilton,1
+Omar Martimez,Omar Martimez,1
+Oscar Hernandez,Oscar Hernandez,1
+Mario Guevara Callejas,Mario Guevara Callejas,1
+Williams Oviedo,Williams Oviedo,1
+lobo,lobo,1
+Miguel Angel,Miguel Angel,1
+Abi Cuellar,Abi Cuellar,1
+grevin esquivel,grevin esquivel,1
+Remberto Gutiérrez,Remberto Gutiérrez,1
+Christian Fernando,Christian Fernando,1
+denis miranda nic,denis miranda nic,2
+Dragonix Dragonix,Dragonix Dragonix,1
+Mansa Musa vargas,Mansa Musa vargas,1
+Emilio Sierra,Emilio Sierra,6
+X Carlos 777,X Carlos 777,1
+Jose Ardo,Jose Ardo,1
+oscar andres melgar dubon,oscar andres melgar dubon,1
+Eduardo ,Eduardo ,1
+Juan Manzanares,Juan Manzanares,1
+Eduardo Santos,Eduardo Santos,1
+Milton Martínez,Milton Martínez,1
+Jes Lee,Jes Lee,8
+Saul Agurcia,Saul Agurcia,1
+Jason Le sage,Jason Le sage,1
+jdas 85,jdas 85,3
+DJ HADSAN,DJ HADSAN,5
+Miguel Zelaya Castro,Miguel Zelaya Castro,2
+Jose Green,Jose Green,1
+Elisa Garcia,Elisa Garcia,3
+Ibeth Gavarrete,Ibeth Gavarrete,1
+Donald Ruiz,Donald Ruiz,1
+Elisa YouTuber,Elisa YouTuber,1
+rapgaiming 07,rapgaiming 07,1
+Z,Z,1
+Anti Mostaceros 3.0,Anti Mostaceros 3.0,1
+Flaco Melara,Flaco Melara,1
+Leonardo Bucaria,Leonardo Bucaria,1
+Brelil Internacional,Brelil Internacional,1
+Jose M Diaz,Jose M Diaz,1
+Luis Aguilar,Luis Aguilar,1
+POP CORN,POP CORN,1
+El príncipe 🤴🏻 isaias,El príncipe 🤴🏻 isaias,1
+Pedro Gante,Pedro Gante,1
+Pedro José Santana Narváez,Pedro José Santana Narváez,1
+Halo3 Mvk,Halo3 Mvk,1
+Sefora Escobar,Sefora Escobar,1
+oscar porti,oscar porti,1
+Valentin Gomez,Valentin Gomez,1
+Karolina Avila,Karolina Avila,7
+Olvin Emilio,Olvin Emilio,4
+D M,D M,2
+SrX,SrX,1
+Josué Castillo,Josué Castillo,1
+Lino Ridriguez,Lino Ridriguez,1
+Jose Lopez,Jose Lopez,1
+el libertador777 el libertador777,el libertador777 el libertador777,3
+Irma Bayaua,Irma Bayaua,1
+Leonsito,Leonsito,2
+Brithany,Brithany,2
+reina perez,reina perez,1
+TODO SOBRE MOTOSICLETAS,TODO SOBRE MOTOSICLETAS,1
+Ivanovich,Ivanovich,6
+Lucylu Cunningham,Lucylu Cunningham,1
+Revolucionario,Revolucionario,2
+Cesar Mejia,Cesar Mejia,1
+Kiwi,Kiwi,1
+inexistente,inexistente,1
+Rafael Castellon,Rafael Castellon,1
+Mary Vasques,Mary Vasques,1
+Mainor Reyes,Mainor Reyes,2
+Samuel Cartagena,Samuel Cartagena,2
+Olga Lainez,Olga Lainez,1
+Agustin Garza Roque,Agustin Garza Roque,1
+luis pinzon,luis pinzon,1
+Sarco Fredericks,Sarco Fredericks,1
+Lesli Velásquez,Lesli Velásquez,1
+Alex Ruano,Alex Ruano,1
+Yadira Ramírez,Yadira Ramírez,1
+ESVE,ESVE,1
+Lųcås Gůtįerřez,Lųcås Gůtįerřez,1
+Bony Op,Bony Op,1
+Jose Armando Montes Ferrera,Jose Armando Montes Ferrera,1
+fab. barahona,fab. barahona,1
+edgedef>node1 VARCHAR,node2 VARCHAR,weight INT,directed BOOLEAN
+DJ HADSAN,jdas 85,1,true
+Jose Green,Emilio Sierra,1,true
+Jes Lee,Donald Ruiz,1,true
+DJ HADSAN,Anti Mostaceros 3.0,1,true
+Jose M Diaz,Brelil Internacional,1,true
+Jes Lee,Pedro José Santana Narváez,1,true
+Sefora Escobar,Halo3 Mvk,1,true
+Karolina Avila,Valentin Gomez,6,true
+Olvin Emilio,Valentin Gomez,4,true
+D M,Valentin Gomez,2,true
+denis miranda nic,Valentin Gomez,1,true
+SrX,Valentin Gomez,1,true
+Jes Lee,Valentin Gomez,5,true
+Josué Castillo,Valentin Gomez,1,true
+Lino Ridriguez,Valentin Gomez,1,true
+el libertador777 el libertador777,Jose Lopez,3,true
+DJ HADSAN,Jose Lopez,2,true
+DJ HADSAN,Leonsito,1,true
+Brithany,Leonsito,1,true
+Leonsito,Leonsito,1,true
+reina perez,Leonsito,1,true
+Ivanovich,Ivanovich,5,true
+Brithany,Ivanovich,1,true
+Lucylu Cunningham,Ivanovich,1,true
+Karolina Avila,Ivanovich,1,true
+Revolucionario,Ivanovich,1,true
+Cesar Mejia,Ivanovich,1,true
+Kiwi,Ivanovich,1,true
+inexistente,Ivanovich,1,true
+Mainor Reyes,Mainor Reyes,1,true
+Samuel Cartagena,Mainor Reyes,1,true
+Agustin Garza Roque,Olga Lainez,1,true
+Lesli Velásquez,Sarco Fredericks,1,true
+Alex Ruano,Sarco Fredericks,1,true
+ESVE,Yadira Ramírez,1,true
+Revolucionario,Yadira Ramírez,1,true
+Samuel Cartagena,Yadira Ramírez,1,true
+Jose Armando Montes Ferrera,Bony Op,1,true

@@ -1,0 +1,86 @@
+nodedef>name VARCHAR,label VARCHAR,commentCount INT
+John Hamilton,John Hamilton,1
+Allan Andino,Allan Andino,1
+Topacio Ucles,Topacio Ucles,1
+Luis Amaya,Luis Amaya,1
+Alfresh contruccion,Alfresh contruccion,1
+Luis Alberto Baquedano,Luis Alberto Baquedano,1
+Edgardo Hernanded,Edgardo Hernanded,1
+Milton Martínez,Milton Martínez,1
+Carlos Rivera,Carlos Rivera,1
+marcio gutierrez,marcio gutierrez,1
+Janeth Solano,Janeth Solano,1
+Miriam Garcia,Miriam Garcia,1
+Cielo Rojo,Cielo Rojo,1
+J Vargas,J Vargas,1
+Rosalinda Irias,Rosalinda Irias,1
+El príncipe 🤴🏻 isaias,El príncipe 🤴🏻 isaias,1
+Omar Martimez,Omar Martimez,1
+Emilio Sierra,Emilio Sierra,9
+Dani B,Dani B,1
+Nidia M Reina,Nidia M Reina,1
+Pompilio Garcia,Pompilio Garcia,1
+Miguel Aranda,Miguel Aranda,1
+Moisés J Cosely,Moisés J Cosely,2
+Rolando Aguilar,Rolando Aguilar,1
+Doris Rivera,Doris Rivera,1
+Aqui Honduras,Aqui Honduras,1
+Carlos Quiroz,Carlos Quiroz,1
+Rosie Lee,Rosie Lee,3
+martha mejia soriano,martha mejia soriano,1
+miranene,miranene,1
+Sandra Violeta Contreras Porras,Sandra Violeta Contreras Porras,1
+Ever Cruz,Ever Cruz,1
+Aurora Bustillo,Aurora Bustillo,1
+Cars fg,Cars fg,1
+Olga Lainez,Olga Lainez,1
+ofelia seren,ofelia seren,1
+Mario Rodriguez,Mario Rodriguez,1
+Melissa Medina,Melissa Medina,1
+Rafael saavedra,Rafael saavedra,1
+Pin Floy,Pin Floy,1
+JACOBS HERNANDEZ,JACOBS HERNANDEZ,1
+Gabriel Valles,Gabriel Valles,1
+Antony Marcus,Antony Marcus,1
+Samuel Rodriguez,Samuel Rodriguez,1
+zxcvbnm,zxcvbnm,1
+Neptaly Valle,Neptaly Valle,1
+mmartinez0518,mmartinez0518,1
+Chico Lopez,Chico Lopez,1
+Jose de la Cruz Arias,Jose de la Cruz Arias,1
+Darwin Alexis Medina Rosales,Darwin Alexis Medina Rosales,1
+Rosario Guardado,Rosario Guardado,1
+Flaco Melara,Flaco Melara,3
+Berly Portillo,Berly Portillo,1
+Lilian Enamorado,Lilian Enamorado,1
+sonia martinez,sonia martinez,1
+Idalgo Mejia,Idalgo Mejia,1
+Alam Cruz,Alam Cruz,1
+Jose Bonilla,Jose Bonilla,1
+Oliver Reyes,Oliver Reyes,2
+Joaquin Miranda,Joaquin Miranda,1
+Fátima Rodríguez,Fátima Rodríguez,1
+RJ ML,RJ ML,1
+Carlos Andino,Carlos Andino,2
+Roque Jimenez,Roque Jimenez,1
+gloria gloria,gloria gloria,1
+Andres Morales,Andres Morales,1
+León 21,León 21,1
+pedro escobedo,pedro escobedo,1
+Dilcia Martinez,Dilcia Martinez,1
+José Ernesto Alvarado,José Ernesto Alvarado,1
+edgedef>node1 VARCHAR,node2 VARCHAR,weight INT,directed BOOLEAN
+Aqui Honduras,Doris Rivera,1,true
+Rosie Lee,Carlos Quiroz,1,true
+Melissa Medina,Mario Rodriguez,1,true
+Antony Marcus,Gabriel Valles,1,true
+Rosie Lee,Flaco Melara,1,true
+Berly Portillo,Flaco Melara,1,true
+sonia martinez,Lilian Enamorado,1,true
+Fátima Rodríguez,Joaquin Miranda,1,true
+RJ ML,Joaquin Miranda,1,true
+Rosie Lee,León 21,1,true
+Emilio Sierra,León 21,1,true
+Flaco Melara,León 21,1,true
+pedro escobedo,León 21,1,true
+Dilcia Martinez,León 21,1,true

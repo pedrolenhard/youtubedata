@@ -1,0 +1,79 @@
+nodedef>name VARCHAR,label VARCHAR,commentCount INT
+Jonathan Villareal,Jonathan Villareal,1
+Juan Medina,Juan Medina,1
+cuervo HN,cuervo HN,1
+Omar Martimez,Omar Martimez,1
+L. Caceres,L. Caceres,1
+LeM PirA,LeM PirA,8
+Rosie Lee,Rosie Lee,1
+Elmer anahel Sorto,Elmer anahel Sorto,1
+New World Order,New World Order,1
+Juan Puchale ,Juan Puchale ,1
+marco Flores,marco Flores,2
+Raul Garcia,Raul Garcia,1
+Marvin Francisco Pavon nuñez,Marvin Francisco Pavon nuñez,1
+Jesus Danilo Pereira,Jesus Danilo Pereira,5
+santitoscon89,santitoscon89,5
+Jose Anibal Barahona,Jose Anibal Barahona,1
+Oswaldina Mejia,Oswaldina Mejia,4
+edgardo salinas,edgardo salinas,1
+Juan carlos Hernández,Juan carlos Hernández,1
+Maria Fuentes,Maria Fuentes,2
+Ilsy Cruz,Ilsy Cruz,1
+Marco Barahona,Marco Barahona,1
+shayla brions,shayla brions,1
+Dora Hernandez,Dora Hernandez,1
+Mary H.,Mary H.,1
+Adalid Hernández,Adalid Hernández,2
+Jose Paredes,Jose Paredes,1
+Cesar Andres,Cesar Andres,1
+Kike Santos,Kike Santos,7
+Frances Padilla,Frances Padilla,1
+Jhiret Cell,Jhiret Cell,1
+Dilcia Jara,Dilcia Jara,1
+Jose Ortiz,Jose Ortiz,1
+Elvin Mayer,Elvin Mayer,1
+Kenneth Nieto,Kenneth Nieto,1
+Juan Sanches,Juan Sanches,3
+Gabriela Nunez,Gabriela Nunez,1
+Citizen Action TV,Citizen Action TV,1
+Jose Pacheco,Jose Pacheco,1
+Mujer Real,Mujer Real,1
+León 21,León 21,1
+J Vargas,J Vargas,1
+Teo Enamorado Leiva,Teo Enamorado Leiva,2
+Gladys F,Gladys F,1
+Alba Rivera,Alba Rivera,1
+Eblin Longoria,Eblin Longoria,1
+David Osorio,David Osorio,1
+Denia Maldonado,Denia Maldonado,1
+Fred77,Fred77,1
+Porsileago Cuevas,Porsileago Cuevas,1
+oscarleonel Urbina Ulloa,oscarleonel Urbina Ulloa,1
+Francisco Ayala,Francisco Ayala,2
+Jacky La catracha,Jacky La catracha,1
+Carlos Andino,Carlos Andino,3
+Enrique Monroy,Enrique Monroy,1
+gloria gloria,gloria gloria,1
+Samuel Rodriguez,Samuel Rodriguez,1
+Julio Garcia,Julio Garcia,1
+Miriam Eskew,Miriam Eskew,1
+Jose Henrriquez,Jose Henrriquez,1
+Obel Alberto,Obel Alberto,1
+Zenaida Rodríguez,Zenaida Rodríguez,1
+edgedef>node1 VARCHAR,node2 VARCHAR,weight INT,directed BOOLEAN
+Oswaldina Mejia,Ilsy Cruz,1,true
+Frances Padilla,Kike Santos,1,true
+LeM PirA,Kike Santos,1,true
+LeM PirA,Kenneth Nieto,1,true
+Oswaldina Mejia,Kenneth Nieto,1,true
+LeM PirA,Gabriela Nunez,1,true
+Maria Fuentes,Mujer Real,1,true
+LeM PirA,Mujer Real,1,true
+LeM PirA,León 21,1,true
+Eblin Longoria,Alba Rivera,1,true
+LeM PirA,David Osorio,1,true
+Oswaldina Mejia,Porsileago Cuevas,1,true
+LeM PirA,Jacky La catracha,1,true
+Obel Alberto,Jose Henrriquez,1,true
+Zenaida Rodríguez,Jose Henrriquez,1,true
